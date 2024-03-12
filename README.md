@@ -3,7 +3,11 @@ Hi 👋, I'm Lalit Kumar
 
 ### A passionate full stack developer from India
 
-\- 🌱 I’m currently learning MERN stack and .NET CORE - 👯 I’m looking to collaborate on full stack project - 💬 Ask me about ASP.NET,JAVA,JAVASCRIPT,SQL or any coding related question. - 📫 How to reach me luckyarya0101@gamil.com - ⚡ Fun fact I love learning new skills.
+- 🌱 I’m currently learning MERN stack and .NET CORE .
+- 👯 I’m looking to collaborate on full stack project.
+- 💬 Ask me about ASP.NET,JAVA,JAVASCRIPT,SQL or any coding related question.
+- 📫 How to reach me luckyarya0101@gamil.com.
+- ⚡ Fun fact I love learning new skills.
 
 ### 🌐 Connect with me:
 
