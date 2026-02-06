@@ -76,8 +76,6 @@ I enjoy building **modern web applications**, solving real-world problems, and i
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 - 🍔 **Eatly** — AI Powered Food Delivery App (Socket.IO, Payments, Auth)  
 - 🛒 **Aurora** — MERN E-Commerce Website (Cart, Razorpay, Orders) → https://aurora-client-rho.vercel.app/  
 - 🎟️ **Event Management System** — Seat Booking + QR Pass Verification  
