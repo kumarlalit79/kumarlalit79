@@ -3,19 +3,25 @@
 
 <p align="center">
   <a href="https://twitter.com/builtbyarya" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:kumar.lalit.tsx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/kumarlalit79">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/kumarlalit79" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lalitkumar7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kumarlalit79&label=Profile%20Views&color=0f172a&style=for-the-badge" alt="views"/>
 </p>
+
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/> </div>
 
 ---
 
@@ -39,14 +45,6 @@ I enjoy building **modern web applications**, solving real-world problems, and i
 ✅ Full-stack projects with real-world features  
 ✅ Clean UI + scalable backend APIs  
 ✅ Improving GitHub, portfolio, and development workflow  
-
----
-
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarlalit79&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
-</p>
 
 ---
 
@@ -102,16 +100,26 @@ I enjoy building **modern web applications**, solving real-world problems, and i
 
 <p align="center">
   <a href="https://twitter.com/builtbyarya" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:kumar.lalit.tsx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kumarlalit79" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lalitkumar7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ "Consistency builds skills. Skills build confidence. Confidence builds results." ⚡
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarlalit79&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
+
+<p align="center">
+  ⚡ "Consistency builds skills. Skills build confidence. Confidence builds results." ⚡
+</p>
